@@ -9,4 +9,4 @@
 
   Run `npm run dev` to start the development server.
 
-  > ##### git clone https://github.com/Pedrodek/Projeto.git
+  Download via `git clone https://github.com/Pedrodek/Projeto.git`
